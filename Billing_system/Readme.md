@@ -10,3 +10,5 @@
     1.Create and manage customer accounts
     
     2.Generate invoices for products and services
+
+![image](https://user-images.githubusercontent.com/91974449/226170662-bc8dad12-b90a-43fe-ae40-a4e365056f67.png)
