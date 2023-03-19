@@ -1,11 +1,11 @@
 
-Project Name: Billing System
+**Project Name**: Billing System
 
 
-Description
+**Description**
     The Billing System project is a web-based application designed to help businesses manage their billing and invoicing processes. The system provides an easy-to-use interface for creating invoices, tracking payments, and managing customer accounts.
 
-Features
+**Features**
 
     1.Create and manage customer accounts
     
