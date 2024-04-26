@@ -5,10 +5,7 @@
  */
 package panda;
 
-/**
- *
- * @author ashok
- */
+
 public class product {
     private String sno;
 }
